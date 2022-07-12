@@ -1,0 +1,40 @@
+{
+  "transferencias": [
+    {
+      "id": "1",
+      "valor": 35,
+      "destino": "1212-1",
+      "data": "2020-11-04T16:30:10.710Z"
+    },
+    {
+      "id": "2",
+      "valor": 40,
+      "destino": "1213-1",
+      "data": "2020-11-04T21:24:10.710Z"
+    },
+    {
+      "id": "3",
+      "valor": 12.5,
+      "destino": "1214-1",
+      "data": "2020-11-05T21:14:10.710Z"
+    },
+    {
+      "valor": 2500,
+      "destino": "Conta BB",
+      "data": "2022-07-12T21:17:20.274Z",
+      "id": "8gACbdF"
+    },
+    {
+      "valor": 2500,
+      "destino": "Pai Marcos",
+      "data": "2022-07-12T23:01:11.502Z",
+      "id": "pzwi-vy"
+    },
+    {
+      "valor": 230,
+      "destino": "José do Egito",
+      "data": "2022-07-12T23:04:42.545Z",
+      "id": "9Rup3Uq"
+    }
+  ]
+}

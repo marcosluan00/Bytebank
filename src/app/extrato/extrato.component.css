@@ -1,0 +1,34 @@
+.titulo {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+.tabela {
+  text-align: center;
+  margin: 0 auto;
+  background-color: white;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+.tabela_cabecalho {
+  color: var(--primary);
+}
+.tabela_cabecalho_conteudo {
+  padding: 10px;
+  border-bottom: 2px solid green;
+}
+.tabela_linha {
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+.tabela_linha:last-child .tabela_conteudo {
+  border-bottom: none;
+}
+.tabela_conteudo {
+  padding: 10px;
+  border-bottom: 1px solid var(--cinza-claro);
+}
+
+.lista-vazia-mensagem{
+  margin: 0.5em;
+  color: var(--secondary)
+}
